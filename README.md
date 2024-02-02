@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 아 이거 언제꾸미냐 ㄱ-
 <!--
 **HOTChanny/HOTChanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
